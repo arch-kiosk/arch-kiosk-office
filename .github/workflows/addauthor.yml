@@ -2,7 +2,7 @@ name: Auto Assign
 
 on:
   issues:
-    types: [opened]
+    types: [opened, edited]
 
 jobs:
   add_labels:
