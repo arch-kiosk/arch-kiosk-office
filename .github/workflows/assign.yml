@@ -1,7 +1,9 @@
 name: "Set Assignee"
-# on:
-#  issues:
-#    types: [opened]
+on:
+  issues:
+    branches-ignore:
+        - '**'
+    types: [opened]
 
 jobs:
   test:
