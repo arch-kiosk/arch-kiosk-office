@@ -3,6 +3,8 @@ name: Auto Assign
 on:
   issues:
     types: [opened, edited]
+  issue_comment:
+    types: [created, edited]
 
 jobs:
   add_labels:
