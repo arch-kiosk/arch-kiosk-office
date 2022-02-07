@@ -1,16 +1,16 @@
-name: Auto Assign
-
+name: "Set Assignee"
 on:
   issues:
-    types: [opened, edited]
-  issue_comment:
-    types: [created, edited]
+    branches-ignore:
+        - '**'
+    types: [opened]
 
 jobs:
-  add_labels:
+  test:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions-ecosystem/action-add-assignees@v1
+      - uses: Naturalclar/issue-action@v2.0.2
         with:
-          github_token: ${{ secrets.github_token }}
-          assignees: ${{ github.actor }}
+          title-or-body: "both"
+          parameters: '[ {"keywords": [" "], "assignees": ["${{ github.actor }}","urapadmin"]}]'
+          github-token: "${{ secrets.GITHUB_TOKEN }}"
