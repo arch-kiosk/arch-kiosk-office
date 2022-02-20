@@ -5,7 +5,7 @@
 No matter for which field-project or which part of the software, it is here and only here in this repository where we all collaborate, report bugs and ideas, discuss ...
 
 ## typical workplaces
-- [testers work here:](https://github.com/arch-kiosk/arch-kiosk-office/projects/25)
+- [testers work here](https://github.com/arch-kiosk/arch-kiosk-office/projects/25)
 
 ## other places
 
