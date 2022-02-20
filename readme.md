@@ -11,8 +11,8 @@ No matter for which field or software project, here in this repository we collab
 
 🧨 **The code for filemaker recording lives here: [filemaker_recording](https://github.com/arch-kiosk/filemaker-recording)**  
 
-📐 **technical documentation lives in [the kiosk wiki](https://wiki.arch-kiosk.brown.edu/urapdev/doku.php?id=start)**  
+📐 **wiki-based documentation lives in [the kiosk wiki](https://wiki.arch-kiosk.brown.edu/urapdev/doku.php?id=start)**  (🔒 login needed)
 
-📓 **documentation and manuals live here [yet to come...](https://wiki.arch-kiosk.brown.edu/urapdev/doku.php?id=start)**  
+📓 **official documentation and manuals live here [yet to come...](https://wiki.arch-kiosk.brown.edu/urapdev/doku.php?id=start)**  
 
 
