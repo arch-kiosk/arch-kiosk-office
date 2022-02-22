@@ -4,7 +4,7 @@
 
 No matter for which field-project or which part of the software, it is here and only here in this repository where we all collaborate, report bugs and ideas, discuss ...
 
-## useful linkgs
+## useful links
 - [all open tickets for the next milestone (12.1)](https://github.com/arch-kiosk/arch-kiosk-office/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22recording+12.1%22)
 
 ## typical workplaces
