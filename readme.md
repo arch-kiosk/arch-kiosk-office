@@ -17,3 +17,7 @@ No matter for which field-project or which part of the software, it is here and 
 
 🧨 **The code for filemaker recording lives here: [filemaker_recording](https://github.com/arch-kiosk/filemaker-recording)**  
 
+## how we organize our work
+This guide remindes us what tools and files we use especially during planning, customization and documentation:  
+📐 [how we organize our work and which tools and files we use](https://github.com/arch-kiosk/.github/blob/main/how_we_work.md)
+
