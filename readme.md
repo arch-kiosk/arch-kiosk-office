@@ -5,8 +5,8 @@
 No matter for which field-project or which part of the software, it is here and only here in this repository where we all collaborate, report bugs and ideas, discuss ...
 
 ## typical workplaces
-- [testers work here](https://github.com/arch-kiosk/arch-kiosk-office/projects/25)
-- [file requests and bug tickets under Issues](https://github.com/arch-kiosk/arch-kiosk-office/issues)
+- 🧪 [testers work here](https://github.com/arch-kiosk/arch-kiosk-office/projects/25)
+- 🪲 [file requests and bug tickets under Issues](https://github.com/arch-kiosk/arch-kiosk-office/issues)
 
 ## other places
 
