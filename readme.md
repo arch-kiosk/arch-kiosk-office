@@ -6,7 +6,7 @@ No matter for which field-project or which part of the software, it is here and 
 
 ## typical workplaces
 - 🧪 [testers work here](https://github.com/arch-kiosk/arch-kiosk-office/projects/25)
-- 🪲 [file requests and bug tickets under Issues](https://github.com/arch-kiosk/arch-kiosk-office/issues)
+- 🪲 [please file requests and bug tickets under Issues](https://github.com/arch-kiosk/arch-kiosk-office/issues)
 
 ## other places
 
