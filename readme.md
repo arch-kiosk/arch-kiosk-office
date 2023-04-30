@@ -6,12 +6,13 @@ No matter for which field-project or which part of the software, it is here and 
 
 ## typical workplaces
 - [testers work here](https://github.com/arch-kiosk/arch-kiosk-office/projects/25)
+- [file requests and bug tickets under Issues](https://github.com/arch-kiosk/arch-kiosk-office/issues)
 
 ## other places
 
-📐 **wiki-based documentation can be found in [the kiosk wiki](https://wiki.arch-kiosk.brown.edu/urapdev/doku.php?id=start)**  (🔒 login needed)
+📗 **documentation and video tutorials for users and admins can be found on the official [Kiosk web-site](https://sites.brown.edu/kiosk)**
 
-📓 **official documentation and manuals live here [yet to come...](https://wiki.arch-kiosk.brown.edu/urapdev/doku.php?id=start)**  
+📕 **wiki-based documentation can be found in [the kiosk wiki](https://wiki.arch-kiosk.brown.edu/urapdev/doku.php?id=start)**  (🔒 login needed)
 
 💾 **The main code for kiosk is here: [kiosk](https://github.com/arch-kiosk/kiosk)**  
 
