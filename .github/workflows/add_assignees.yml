@@ -14,5 +14,4 @@ jobs:
           actions: 'add-assignees'
           token: ${{ secrets.GITHUB_TOKEN }}
           issue-number: ${{ github.event.issue.number }}
-          assignees: 'urapadmin,${{ github.actor }}'
-          random-to: 1
+          assignees: urapadmin,${{ github.actor }}
