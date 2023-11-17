@@ -1,20 +1,20 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
+about: This is not for bugs. This is for requests or ideas.
+title: 'kiosk/recording app: concise, read-oriented and future-proof title'
+labels: request
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+🫶 Take your time and write reader oriented. Imagine this request to appear in a sea of issues and you don't want the recipient to have to open it to know what it is about. So titles like "I want a feature" really don't help 🤨. 
+😮Write so that a reader in 4 weeks or 4 months would easily understand what this is about. This is particularly important for feature requests as they are usually not attended to right away.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Describe your idea or request**
+A clear and concise description of what you want to achieve? 
+Where do you want it? 
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Screenshots and files**
+Draw a sketch, make a screenshot, everything that helps illustrate your feature request if necessary. 
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+- add a label for either Kiosk or FileMaker recording if you can
