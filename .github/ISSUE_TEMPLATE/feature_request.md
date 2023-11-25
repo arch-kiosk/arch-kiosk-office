@@ -2,7 +2,7 @@
 name: Feature request
 about: This is not for bugs. This is for requests or ideas.
 title: 'kiosk/recording app: concise, read-oriented and future-proof title'
-labels: request
+labels: new-issue, request
 assignees: ''
 
 ---

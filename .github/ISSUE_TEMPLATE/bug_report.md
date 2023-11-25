@@ -3,7 +3,7 @@ name: Bug report
 about: 'Only for bugs: If you think something is not working as it was designed to
   work.'
 title: 'Kiosk/Recording: concise, descriptive and reader-oriented title for the issuse'
-labels: "\U0001F41E bug"
+labels: "\U0001F41E bug, new-issue"
 assignees: ''
 
 ---
