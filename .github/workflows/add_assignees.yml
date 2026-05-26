@@ -1,19 +1,17 @@
-name: Add Assigness
+name: Add Assignees
 
 on:
   issues:
     types: [opened]
 
 jobs:
-  add-assigness:
+  add-assignees:
     runs-on: ubuntu-latest
     permissions:
       issues: write
     steps:
-      - name: Add assigness
-        uses: actions-cool/issues-helper@v3
-        with:
-          actions: 'add-assignees'
-          token: ${{ secrets.GITHUB_TOKEN }}
-          issue-number: ${{ github.event.issue.number }}
-          assignees: urapadmin,${{ github.actor }}
+      - name: Add assignees using GitHub CLI
+        run: |
+          gh issue edit ${{ github.event.issue.number }} --add-assignee "urapadmin,${{ github.actor }}"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
