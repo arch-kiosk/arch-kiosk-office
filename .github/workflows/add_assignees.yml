@@ -11,7 +11,9 @@ jobs:
       issues: write
     steps:
       - name: Add assignees using GitHub CLI
+        # Notice the space instead of a comma between the assignees 👇
         run: |
-          gh issue edit ${{ github.event.issue.number }} --add-assignee "urapadmin,${{ github.actor }}"
+          gh issue edit ${{ github.event.issue.number }} --add-assignee "urapadmin" --add-assignee "${{ github.actor }}"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
