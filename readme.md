@@ -6,6 +6,7 @@ No matter for which field-project or which part of the software, it is here and 
 
 ## typical workplaces
 - 🧪 [testers work here](https://github.com/orgs/arch-kiosk/projects/23)
+- 🔎 [Priority Screening](https://github.com/orgs/arch-kiosk/projects/35/views/2?groupedBy%5BcolumnId%5D=Status)
 - 🪲 [please file requests and bug tickets under Issues](https://github.com/arch-kiosk/arch-kiosk-office/issues)
 
 ## other places
