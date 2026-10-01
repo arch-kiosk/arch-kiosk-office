@@ -2,7 +2,7 @@
  
 ## 🤸🏿👽🕵️ This repository is for people 🤸🤖🎅
 
-No matter for which field-project or which part of the software, it is here and only here in this repository where we all collaborate, report bugs and ideas, discuss ...
+No matter which field-project or what part of the software is on your mind, it is here and only here in this repository where we all collaborate, report bugs and ideas, discuss ...
 
 ## typical workplaces
 - 🧪 [testers work here](https://github.com/orgs/arch-kiosk/projects/23)
